@@ -1,0 +1,75 @@
+<img src="images/5a385f9c87dd16.0608795915136439325565.png" width="30px" height="40px">
+
+
+if(MenuItem.style.maxHeight = "0px")
+        {
+                MenuItem.style.maxHeight = "200px"
+        }
+    else
+        {
+            MenuItem.style.maxHeight = "0px"
+        }
+
+
+
+
+
+
+<!-----js for toggle menu-->
+<script>
+    var MenuItem = document.getElementById("MenuItems");
+
+    MenuItem.style.maxHeight = "0px";
+
+    function menutoggle(){
+        if(MenuItem.style.maxHeight == "0px")
+            {
+                MenuItem.style.maxHeight = "200px";
+            }
+        else
+            {
+                MenuItem.style.maxHeight = "0px"
+            }
+        }
+</script>
+
+<body>
+</body> 
+
+
+
+
+<img src="images/5a385f9c87dd16.0608795915136439325565.png" width="30px" height="40px">
+        <img src="images/menu.png" width="30px" height="40px" class="menu-icon" onclick="menutoggle()">
+
+
+
+
+
+
+<nav>
+            <ul id="MenuItem">
+                <li><a href="">หน้าหลัก</a></li>
+                <li><a href="">ร้านค้า</a></li>
+                <li><a href="">เกี่ยวกับเรา</a></li>
+                <li><a href="">สามารถติดต่อได้ที่</a></li>
+                <li><a href="">ล็อกอิน / ลงทะเบียน</a></li>
+            </ul>
+        </nav>
+        <img src="images/5a385f9c87dd16.0608795915136439325565.png" width="30px" height="40px">
+        <img src="images/menu.png" width="30px" height="40px" class="menu-icon" onclick="menutoggle()">
+
+
+
+
+<img src="images/5d932543934a52b71d295dca63d81854.png"  width="125px">
+            <img src="images/140-Aquarium-led-lighting-Dimmable-aquarium-Marine-Fish-tank-300x300.jpg" width="125px" height="100px">
+            <img src="images/1410712634595_resize.jpg" width="125px" height="100px">
+            <img src="images/bc2d7b4ac52fe7d00e14685e54830613_full.jfif" width="125px" height="100px">
+            <img src="images/ca55451209a3e21990091b3c7db7cb97.jpg" width="125px" height="100px">
+            <img src="images/images.jfif" width="125px" height="100px">
+            <img src="images/nnsc22.jpg" width="125px" height="100px">
+            <img src="images/ed902562-78d3-41b0-abe9-78aa62e4005c.jpg" width="125px" height="100px">
+            <img src="images/istockphoto-585616148-612x612.jpg" width="150px" height="100px">
+
+\
